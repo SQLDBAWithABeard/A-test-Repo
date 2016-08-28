@@ -2,7 +2,7 @@
 {
 <#
 .SYNOPSIS 
-Adds an instance or an array of instances to the dbareports database using the config file
+Adds an instance or an array of instances to the dbareports database using the config file Blah de blah
 .DESCRIPTION
 This command will add a SQL Instance or an array of instances to the dbareports database using the config file generated at install or via the dbrclient command
 
